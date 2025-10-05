@@ -3,17 +3,19 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 ## Getting Started:
 
 В аудиторії: 
- 1. Клонувати ваш репозиторій
+```bash
+#1. Клонувати ваш репозиторій
 git clone https://github.com/...
 
- 2. Перейти в папку
+#3. Перейти в папку
 cd назва-репозиторію
 
-3. Встановити залежності (це завантажить node_modules)
+#4. Встановити залежності (це завантажить node_modules)
 npm install
 
- 4. Запустити проєкт
+ #5. Запустити проєкт
 npm run dev
+```
 
 First, run the development server:
 
